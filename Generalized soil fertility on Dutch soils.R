@@ -1,4 +1,4 @@
-########## Data analyse Judith
+########## Data analyse for generalized soil fertility measurement model of Daou & Shipley 2019 Ecology.
 
 ########## Data preparation ###########
 
